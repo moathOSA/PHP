@@ -186,6 +186,77 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 177. What is MVC Framework, What are the most prominent features of CodeIgniter? Explain controller in CodeIgniter.
 178. Who founded php
 179. How to add aws plugin in PHP?
-180. 
+180. Sample streamed data Please write a program stream-sampler that receives and processes an input stream consisting of single characters.
+181. SQL: you have a table with customers, with gender m and f. Write a query to update m with f, f with m in a single query, without temporary tables
+182. how can you display 3rd highest salary from database? 
+183. how can you handle errors in php? 
+184. how to send a http request in php? 
+185. In depth concepts of OOPS.
+186. 1. Group by VS order by main Difference ?
+187. print 1 to 100 no divide by 3 and 5.
+188. Debugging the PhP codes.
+189. How would you implement PHP/MySQL pagination?
+190. What is the full form of PHP
+191.  They also asked about web services and major focus of interview is MVC and CAKE PHP
+192. What is session and cookies.
+193. have you work wth mvc like laravel, ci, zend , cake & yii ?
+194. Mysql join and grouping
+195. inheritance, classes etc.
+196. Technology related questions on PHP, WordPress, Shopify, Magento
+197. What do you know about PHP artisan? Mention some artisan command.
+198. Can you work independntly
+199. How can we access the data sent through the URL with the GET method?
+200. Tell me about your roll in the current company.
+201. constraints and triggers
+202. How will you develop database
+203. What are SQL Injections, how do you prevent them and what are the best practices?
+204. var_dump(0123 == 123); var_dump('0123' == 123); var_dump('0123' === 123);
+205. What is the need of interface?
+206. What are the best method for optimizing php or mysql code
+207. How to reduce http request on page loading?
+208. What is SOLID principles?
+209. What is my experience with Laravel?
+210. I was given to create a small module using Any framework or core PHP.
+211. Praktische Erfahrung mit Symfony, REST, Docker ?
+212. Part 1. They asked about basics of object oriented programing. what is inheritance, give me an example of a sql command Part 2. They sent a php file with about 400 lines of code and wanted me to implement a design pattern to that code. You have 2 hrs to complete the task.
+213. 8 balls puzzle to solve
+214. improve the code from the talent test according to modern software development practices. include unit tests
+215. HTTP methods in PHP
+216. php array functions,string functions ,laravel questions
+217. 2. How can a Cookie Value be retrieved?
+218. 3. Name the types of loops existing in PHP.
+219. core php,js
+220. Describe the request lifecycle in Laravel?
+221. Write a recursive function that reverses a string
+222. [1,6,5,4,2] -> write an algorithm to return second larger number in the array, in this case number 5
+223. class Test{ protected $var; public function __construct(){ $this->var=1; } public static someFunction(){ return $this->var *= 5; } } What is wrong with the code ?
+224. if(!(strpos($haystack,$needle)){ } What is wrong with the code ?
+225. PHP and mysql questions as in other companies, OOPS concept, MySQL db concept like joins, group by, having
+226. Write a PHP function to list out files on the html page that correspond to the filenames and extensions present in a directory, which of course relates directly to the type of work iDrive does, working with files, backups, and interacting with them
+227. Write array element count without using count variable.
+228. Difference between mysiam and innodb storage engine
+229. maximum size of post request in php
+230. maximum size of get request in php
+231. maximum cookies which can be stored in browser
+232. $x = true and false; var_dump($x);
+233. $text = 'John '; $text[10] = 'Doe';
+234. why to use hooks in ci
+235. 13 : how to find datatype of $i ?
+246. Make an app for Event Exhibition, which different events, and each event has stands, provide feauture to book stand with details and documents, show details of booked stands, email visitors etc
+247. Design an app that handles a parking lot, and has 3 sizes of parking slots.
+248. (Reverse a string, Ascending sort an array
+249. Binary Search
+250.  Will tell you to optimize your code and handle different test cases
+251. types of mysql engines?
+252. How to create object of Interface
+253. How can protect my site from world class hackers ?
+254. fibonacci, factorial, max, sort etc.
+255.  triggers and types
+256.  basic joomla questions
+257. PHP basic questions, OOPS, Server configuration, MySQL Index, Joins, Optimization. MVC, JQuery... Zend Framework
+258. How to declare an array in php?
+259. It was about Symfony framework, multiple questions.
+260. oops concept and basic of ci
+261. 
 
 
