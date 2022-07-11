@@ -734,4 +734,16 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 735.     Describe the variable visibility scopes in PHP.
 736.     Questions on solid principle , optimise slow queries , process for epic stories in my project.
 737.     Describe building blocks in Domain-Driven Design
-738.     
+738.     whats the angle between the minute pointer and hour pointer at 3:15
+739.     I was given a logic question where you have 5 balls. One of the balls is heavier than the others. What's the fewest number of times you have to compare weights to figure out which ball is heavier.
+740.     how to merge two tables in SQL?
+741.     1) Tell me about yourself?? 2) write a note on a topic which is not related to technology??
+742.     Tell me about static variables
+743.     1. Display sum of 1 to N numbers 2. Display 1-100 numbers in each line where if it is divisible by 3 then '***' if by 5 then '***' 3. Write code to display a square with ' * '
+744.     If you are in the race and you crossed the 2nd person in the race then what is your position?
+745.     Estimate how many people get married in the United States every week.
+746.     ACID
+747.     There are 8 stones, each has the same weight, except of one, which is heaviest. How would you discover which one?
+748.     1. what is call by reference in php? 2. difference between require and require_once 3. stack and queue, how this related to sorting function? 4. what's the difference between == and ===?
+749.     Write a loop that takes POST data and creates dynamic variables on the fly.
+750.     
