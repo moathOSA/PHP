@@ -746,4 +746,145 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 747.     There are 8 stones, each has the same weight, except of one, which is heaviest. How would you discover which one?
 748.     1. what is call by reference in php? 2. difference between require and require_once 3. stack and queue, how this related to sorting function? 4. what's the difference between == and ===?
 749.     Write a loop that takes POST data and creates dynamic variables on the fly.
-750.     
+750.     1.hr interview-they check your verbal and written communication ability 2.written test consists of 10 questions with mix of javascript and php 3.technical test - here they ask you to install LAMP ,Wordpress, Virtualization and/or FTP
+751.     Q: Please tell me the message brokers you've worked with.
+752.     What I know about Mphasis?
+753.     Island problem and some behavioral questions.
+754.     System design, class design for escalator
+755.     Explain Interrupt handling with example
+756.     Arrays Palindrome Sorting Searching Patterns
+757.     Explain Dependency injection with an example
+758.     Mutate a given input string
+759.     How to scale model on cloud
+760.     How to analyze the code
+761.     what is dao in room db
+762.     SQL based were asked, specially sub query
+763.     How to override a hashcode function.
+764.     Reverse a singly linked list
+765.     Find min of average data.
+766.     Questions for first two rounds. - Introduce about your self - strength and weakness - challenge faced and other general questions Questions 3rd round (technical) - Find the Errors for given snippet - question on bit shifting - arithmetic and assignment operators' execution preferences
+767.     extension of kadane algo . circular array given
+768.     What is the difference between DDL, DML, DCL?
+769.     Something about a binary tree traversal
+770.     How is your understanding about data communications and hardware? What is the difference between TCP and UDP?
+771.     Q: What are the different API architectures and how are they different from each other?
+772.      Spark Question
+773.      Design pipelines
+774.      General database system design questions.
+775.      Basic technical questions related to coding and especially for SQL (PostgreSQL).
+776.      Bubble sort, SQL query to find second largest salary
+777.      What is IoC (Inversion of Control)?
+778.      Optimize the code given code.
+779.      Core Java, microservices, Scenario based questions, Jenkins, database related question, data structures. Script to create, write into a file.
+780.      What things you don’t like at work? Dependency injection Difference between BigDecimal and double
+781.      1: Code assignment, took around 3 hours 2: Technical interview with the tech team, took 2 hours around 3: 2: Technical interview with other tech team, took 2 hours around
+782.      What is your favorite language? Why java is platform independent? Write code on the thing specified by interviewer Questions on DSA & projects done
+783.      Write a code for Reversing a String.
+784.      Design the System just like carousel
+785.      sql quries on join condition , aggregate function , keys and constrains.
+786.      Heap Map Graph Linked List Queue
+787.      Explain the different use cases for different hooks.
+788.      1-Star Pattern 2-OPPS question 3-we need to find the count of the pair in a array whose sum is equal to the target value 4- we need to print the count of the even word int the given string
+789.      1) Immutablity of a class(Show an example in IDE) 2) How will you sort a salary of an Employee? (Show in IDE) 3) Once Sort Remove the 4th Highest Salary of an Employee? (Show in IDE) 4) What are Generics? 5) Are you aware about the Design Pattern? (if yes then explain ) 6)What is Multithreading, How you used that in your project? 7) What are Concurrent HashMap? 8) What are HashMap?
+790.      Structs Vs classes, what experience I had with what architectures and so on
+791.      The process is as follows here :---- 1) Online Test 2) Three Technical rounds(major focus was on java + OOPS+ multithreading) 3) DBMS+Cloud+ Basics of Computer fundamentals 4) Rounds were easy if you know DSA NOTE:- I was give positive feedback and at the end of HR round, they said we can't give you more CTC as there range in only 10-11Lakh. The worst part is HR's are very inactive and they don't let candidates know the whole process they kept in dark room. Rounds are very easy and interviewer don't have much knowledge about DSA so they ask repeated OOPS question to judge you and pass the time. Such pathetic experience I had with them. I never recommend anyone to go for interview with this company if you have any other job in hand. They initiated my rounds by saying we can give you this much but at the end they put me on hold that we don't have enough budget now. Very Bad and first time I have seen such services, they wasted my whole month and even not replying to mails even after many follow-ups. DONT GO WITH NAVIS.
+792.      Clone a singly linked list using two pointers.
+793.      - Write a SQL query to join 2 tables
+794.      - Given two classes written in C#, you should write constructors for them. - If you have any edits to the classes to achieve polymorphism. - Problem Solving: You have an array (not sorted) and you need to print the repeated number. - What is meant by that REST Methods are idempotent? - To build a sign-in API, what HTTP method is more applicable? - The rest of the interview was behavioral questions.
+795.      Interviews themselves were more conversational, but with one technical problem to solve. • Python functions: parameters, *args, **kwargs • Lists vs Arrays • Class vs instance variables • Reading files • Exceptions • Sets • OOP 1. Deep copy vs shallow copy 2. Object serialization 3. Microservices a. Scaling up performance b. Horizontal vs vertical scaling 4. Pythonic way of checking palindromes 5. Reading files a. What if the file has a billion+ lines? b. Multiple ways to do this 6. Behavioral a. Time when you've mentored someone b. Time when you've presented to a large group c. Talk about a relationship you've built at your work place d. Time when you had to convince someone something e. Time when you had to foster collaboration between multiple teams f. How do you do approach research? Time when you turned a problem into an opportunity
+796.      What is agile methodology? What is exploratory testing?
+797.      What’s are the pros and cons of a garbage collector?
+798.      How would you fetch a http resource in a browser, how would you implement it yourself? What OS calls would be needed?
+799.      What’s the difference between memory management in c/cpp and say rust?
+800.      Oops, APIs, teamwork behavioral, how you learn new languages/tools
+801.      This was asked multiple times: describe a conflict situation you handled as a manager and how you dealt with it?
+802.      Given a list of users and a list of groups of users, how many SQL tables would you need to create a schema for that relationship?
+803.      The first coding problem is Count Family logins, which can be solved by using hashmap and the second one is Shipment Imbalances. Both problems can be found in Leetcode.
+804.      Please create a web app for an online notebook.
+805.      Q: Discuss a time that you disagreed with a colleague, and what you did.
+806.      when and why would you use core data?
+807.      What is data transformation in SSIS?
+808.      Approach to reverse an array
+809.      What do you know about Freetrade?
+810.      A cognitive test and some questions about promises, settimeout, and the output of the code on some scenarios.
+811.      How would you manage version control?
+812.      Oops concept, PHP basic + advance.
+813.      Why string is immutable concrete hashmap design pattern spring annotations
+814.      Design a ticketing system with a way to store logs submitted with tickets as well
+815.      On SDLC and coding based questions on palindrome, prime numbers
+816.      Solve leetcode medium and hard problems
+817.      regex apply
+818.      disadvantages of ORM, app-level improvements
+819.      System design design a tagging system
+820.      Code 1 and 2 Write a ratelimiter, and calculate the size of the files on a system, basically do a calculation on a list of a list, and sort a list
+821.      1. Initially the assessment was to display posts and individual post with pagination in Vue, vuex and vue router. 2. Pair programming with the team on JS and CSS flexbox. 3. Manager round. 4. HR round
+822.      Initially interviwer start with introducting my self. asking about projects. after shifted to technical part which will be asking like 1. Explain the worker process ? 2. What is mean by web api? 3.what is mean by action filters? 4.what is mean bu normallization? 5.write a program using array list find the all the values in array?
+823.      Ingesting, transformation of data in cloud storage platforms like ADF
+824.      What is indexing in mysql
+825.      Basic opps concept, Detail project discussion, SQL queries, coding question.
+826.      Spring Accutator SOLID principles Kafka duplicate messages
+827.      Scenario Faced , failure in life
+828.      Coding questions: 1. A hard leetcode question 2. Network/IP address validation question
+829.      Two technical rounds followed by hr Rouns. Prepare core java concepts, spring, spring Boot, Hinernate, JPA , weservices like SOAP Rest and some Basics Programing Questions and caching concepts in hibernate
+830.      Tell me about your self and then coding question
+831.      Entity Framework, Cache and how to develop it in the program, Session and which session will use under specific conditions, How to create User Control, Page Load / Unload which will call first (Master page, content page, user control) New keyword ref in class The disadvantage of the Factory method webservice vs WCF SOA State Management Pagination on DB Level How to encrypt DB data, which library you have used Solid principle Design Patter How to implement Thread-safe Singleton Abstraction VS Virtual
+832.      - Make a LWC that receive the recordID and display inside a lightning input form the sobject account as well display inside the lightning input form a LWC lightning input text that get the object name based on first result
+833.      - Write a SOQL query that get user data based on the last user who view account object
+834.      Design a system that keeps time synchronized across processes on remote machines using network messaging.
+835.      What kind of data structure to use for a problem.
+836.      Sample: if password is passed through a request body in https, is it protected
+837.      Have you ever had a conflict with your team member. How did you resolve?
+838.      Design and talk through a basic messaging architecture in response to requirements given by the interviewer.
+839.      First part is multiples choices questions about http, thread , object and class(oop)
+840.      STAR Questions, easy AWS questions
+841.      If you have two deliverables that need to be met at one time, what will you do to complete both requests.
+842.      design a sql query and with a minimum of t00
+843.      fibonacci related question. window functions in postgres. database engine related questions. DB design question.
+844.      Build a sudoku solver in 50 mins without using Google.
+845.      Javascript basics like promises, callbacks, and async-await. React questions like class components, functional components, hooks
+846.      What did you when you were aware you will not be able to meet the deadline?
+847.      What is the difference between TCP and UDP?
+848.      Self Introduction Are you Relocate You have any offer in your hand Call by reference and Call by value
+849.      Basic OOP questions and some stack/queue based exercises
+850.      Q1. Tell us about yourself. Q2. What are your strengths? Q3. What are your weaknesses? Q4. What is programming? Q5. What do you know about our company?
+851.      I remember only some of my questions, very few. "Tell me about yourself" "What is primary key in SQL?" "Tell me about RDBMS"
+852.      Select count(*) from table1, table2; here table1 has 25 rows and table2 has 50 rows.
+853.      How many water balloons fit on a bus?
+854.      Describe an interesting project you are working on.
+855.      #1: Tell us a bit about yourself. #2: Why have you applied for this internship? #3: Why have you applied for an internship at our company? #4: Why do you want to work in this industry? #5: What are your strengths? #6: How do you prioritize your work?
+856.      Binary Search, System Structures
+857.      difference between put and patch, http status code, bundling, partial view, view body, adding default route
+858.      Technical questions were focused on my resume: SQL, API, Object oriented concepts, Selenium exercise
+859.      Implement a system to manage a parking lot. In a pseucode way. Think of the object oriented principles, and databases.
+860.      What do You do when You receive a pull request from someone?
+861.      What are the different types of EC2 instances based on their costs?
+862.      1. Sort the array 2. Stair case problem - Dynamic Programming
+863.      Stacks and Queues and the differences.
+864.      Can you find the no of nodes in a Linked-List without traversing it?
+865.      Solve a code problem about a maze and finding a path using Java or any other languages you are confident with
+866.      Binary search tree types of stuff.
+867.      Can you tell me some books about design patterns, not just teaching how to code stuff directly?
+868.      Do you think you are a go-getter?
+869.      - API design - Websockets , Message bus and pros / cons - PR reviews
+870.      Had to build a basic full stack app within 4 hours.
+871.      Why do you want to work at Prolucid? Standard Behavioral questions.. Where do you see yourself in 5 years?
+872.      Multhreading, LC easy and medium problems, OOPs concept, design patterns
+873.      Threads and garbage collector in depths
+874.      1)reverse of array 2)What was your project ? 3)Preferred programming language
+875.      What is retaining cycle, and how can one prevent it?
+876.      What is the difference between unowned and weak?
+877.      Dependency Injection, API verbs, Event Loops, WebApis. 2PC transaction
+878.      who is your role model?
+879.      Sorting question, string palindrome problem
+880.      Write code for Reverse linked list.
+881.      how about SDLC method and debugging
+882.      Design the classes for an organism Prime numbers
+883.      Explain the OOPs concept? Why multiple inheritance cant be achieved in java? Why overriding is not possible in constructor?
+884.      eventloop, trigger, singleton pattern, memoization, authorization, authentication,lazy loading, Streams, Buffers, SPA, overloading vs overriding, generics, http methods, interceptor, middleware
+885.      - Why Cambridge Intelligence? - Favourite programming languages? Why? - Design decisions related to your programming task - Lots of talk about past projects - what was it? what was learnt from it? what would you do differently? - Discussion around university courses - favourites? least favourites? tasks? teamwork?
+886.      What's a binary search tree?
+887.      Remove duplicate elements from array. Difference between overloading and overriding.
+888.      What is the difference between Table and View in SQL?
+889.      Experience with TDD
+890.      MANUAL AND AUTOMATION Regression and retesting Bug life cycle
+891.      
