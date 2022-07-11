@@ -1,12 +1,5 @@
 # PHP
 All Things PHP
-https://www.glassdoor.co.in/Interview/php-developer-interview-questions-SRCH_KO0,13.htm
-https://www.glassdoor.com/Interview/germany-php-interview-questions-SRCH_IL.0,7_IN96_KO8,11.htm
-https://www.glassdoor.com/Interview/canada-php-developer-interview-questions-SRCH_IL.0,6_IN3_KO7,20.htm
-https://www.glassdoor.com/Interview/israel-developer-interview-questions-SRCH_IL.0,6_IN119_KO7,16_SDRD_IP2.htm
-https://www.youtube.com/watch?v=OK_JCtrrv-c
-
-
 1. Q1. Draw star pattern like. n=1. * n=2. ** * n=3. *** ** * n=4 **** *** ** * n=5. ***** **** *** ** *  
 2. Given an array of numbers [1,3,3,5,9,4,1,10,9,7,2,7], Write a php function that will print numbers that are not duplicated in array. [5,4,10,2]
 3. First round is pattern based question like.. n=1 n=2 n=3 * * * *** *** *** * * * * ***** ***** * * * *******
