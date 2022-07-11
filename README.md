@@ -880,4 +880,86 @@ All Things PHP
 888.      What is the difference between Table and View in SQL?
 889.      Experience with TDD
 890.      MANUAL AND AUTOMATION Regression and retesting Bug life cycle
-891.      
+891.      How would you investigate a production system that is currently taking too long to process requests? Which monitoring tools would you use? Could you point the main differences between RabbitMQ and Kafka ?
+892.      What is event loop and how does it work in setTimeOut
+893.      Arrays Bst Hashmap Oops Multithreading
+894.      BST- Merge two BST DP-Matrix Multiplication
+895.      What is Sql indexer? Routing in MVC, http status codes
+896.      BFS and inorder, preorder, postorder traversal
+897.      NDA but basically, some DFS problems
+898.      SOLID Principles CI/CD Pipelines Part work experience
+899.      A very in depth question about Data Structures that no leet code prep could prepare you for. I believe the question was given that way to see how you think through problems
+900.      Software engineering concepts and architecture
+901.      How would you search for a specific email address in a list so that each key pressed reduced the list?
+902.      What is a rest api
+903.      Creating a CRUD (client manager) in a period of 2 hours
+904.      The Lottery question - given a number N, write a class that allows a user to call getK and receive K different balls (with different numbers), chosen randomly from the relevant balls that are still in the system (not previously returned to customer). All numbers are unique, and should be from 1 to N.
+905.      What are deadlocks What is polymorphism? Different types of polymorphism? In function overloading, how compiler knows which function to run? (Internal working) What are virtual functions. What is NAT? How https works? Asymmetric and symmetric encryption. Security devices at different layers of the network. What is arp poisioning? Most specific route in overlapping subnets. Design a load balancer in C++. How memset works Stack and heap in memory layout New and delete Malloc calloc and free Seperate linked list odd and even Templates in c++ Security at different layers of network VLAN ACL Agile Some behaviour questions
+906.      array storage classes logical questions c programming questions
+907.      Theory questions on golang. Coding problems related to go routines, channels. Basic networking questions. Rest api and gRpc.
+908.      A short paper full of technical SQL questions
+909.      how to install php? feature of html language.
+910.      What is the latest version of laravel?
+911.      A top K variation problem
+912.      Linked lists, DS and A, etc
+913.      Dependency injections Polymorphism Entity framework
+914.      Database: sql unite, group by, SQL Common Table Expressions (CTE), inner join, outer join, and example of sql select find duplicates in a table.
+915.      Experience and interest in writing high quality open source software.
+916.      Build a MCQ website and send the screen recording of it.
+917.      ACID property, JWT, Password hashing, HTTP, HTTPS, difference between GraphQL and REST, SQL queries, JS, NodeJS, 1 DSA question of DP.
+918.      What do you know about dependency injection?
+919.      I don't remember some questions, but here are a few which I remember. 1.Lifecycles on activity/fragment/views 2. Difference between val, const , and const val 3.MVVM 4. How would you have your data retained after the new launch 5. Architecture a new app based on requirements 6. Coroutine context 7. What is a lazy column in jetpack compose? 8. Three DS and algo problems(I don't remember the problems) 9. Kotlin scope functions 10. About my previous projects. 11. Toughest challenge faced by me? and more...
+920.      Q: Are you familiar with JIRA Q: What is your development experience like etc. (fairly standard questions)
+921.      What is Test driven design
+922.      Q . Remove duplicate from array
+923.      Binary search through an array, hash map questions, basic Data Structure and Algorithm problems
+924.      1) Number of turns in a binary tree
+925.      What are the stages in SDLC
+926.      OOPs Conecpt Method Overloading and Overriding Primary and Foreign Key Java programs like prime number and reverse a string Create a table in SQL Insert a column in SQL
+927.      * What is check point in SSIS ? * What is Clustered index?
+928.      Describe an scenario which was challenging for you and how you did overcome it?
+929.      easy leet code. BFS and DFS
+930.      Linked tree , binary tree
+931.      What is abstraction? Was is OOP?
+932.      Refactor a badly written code, here is 400+ lines of requirements for you to understand how it should work
+933.      "If a day on Planet A is 29 hours and a day on Planet B is 30 hours, what are the chances I was born on Planet A?"
+934.      "What are the chances you have the same birthday as me?"
+935.      "Imagine you had a 6-sided dice, and for each dot you get $1, what is the average money you'd make after X rolls?"
+936.      Describe how would you create an API route
+937.      Design a stack class which will return the most occurring number in the stack. If 2 numbers have the same count of occurrence then return the number which is at the top of stack. For this I was required to write the class with 2 methods push() & pop().
+938.      Jane is taller than John, who is shorter?
+939.      When did you f*ck up production ? And how did you solve it. explain O and D of SOLID
+940.      Design parking lot with support for multi level parking using any language you want.
+941.      Reverse a Doubly- Linked List?
+942.      Design a WhatsApp System from scratch.
+943.      Singletons Design patterns Oops concepts
+944.      They request to create a small application with Laravel and Angular for create, update, read and delete data from MySql or PHP MyAdmin.
+945.      What is threading in programming?
+946.      Q: Tell me about a time where you didn’t deliver on something, and what was your reaction?
+947.      Do you have experience in Docker?
+948.      Cerate a docker container and write the config file
+949.      -> Time complexities of various sorting algorithms?
+950.      -> Explain the working of Merge Sort?
+951.      -> Explain how grid system works in Bootstrap?
+952.      -> Define how 'JOIN' works in SQL?
+953.      -Where do you see yourself in 5 years? -What is a relational database? -What are the 4 pillars of OOP?
+954.      Do you have experience with UDP/TCP
+955.      What is SSR (Server Side Rendering)?
+956.      the difference between the stack and heap
+957.      What is polymorphism? What is inheritance
+958.      Define the four pillars in OOPS.
+959.      Why REST ? Why do we need REST?
+960.      Oops concept - Abstract and Interface
+961.      System Design: SQL vs. No-SQL databases, how to scale a database, UUID's, interaction between backend components, database sharding, etc. Coding: recursion, data structures, complexity, basic code optimization, etc. Cultural fit and managerial: dealing with low performers, managing style, description of my background, reasons to be a manager, etc.
+962.      Group by in SQL?, How to create joins in SQL?
+963.      what is buffer? what is latch?
+964.      Given a sudoku board, return if the sudoku board is solved correctly
+965.     string manipulation and dictionary.
+966.     In my case I had to build a CRUD API. Not difficult but it takes time as you have to imagine a PRD setting (so having tests, proper abstraction, proper documentation on how to build etc...).
+967.     Write a program that can reverse a list Do a code review - though this is very subjective as it was mainly about their personal likes/dislikes\
+968.     Basic DSA, SQL and OOP questions.
+969.     System related and opinions on current system.
+970.     Codility, basic array manipulation questions. Technical interview. Doing replace templating on a string, which recieve a dictionary of keywords and values to replace. It was simple and something they might already did in one of their products.
+971.     what is string? what is polymorphism? coding question of maximum sum array?
+972.     Are you familiar with TypeScript
+973.     
