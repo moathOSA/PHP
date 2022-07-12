@@ -1512,6 +1512,17 @@ How to reverse a binary tree.
 Binary tree search modification question
 Lifecycle method, Pure Component, Hooks concepts, Es6 concepts
 Pattern star and number type
+How MVC arquitecture is organized?
+Framework knowledge and Core PHP
+Coding design pretty much standard stuff
+1: Code up a web crawler. 2: OOD for a log system.
+Which difficulties did you encounter in previous jobs? How did you solve them?
+What is the difference between git rebase and git merge?
+Basic TDD design questions and OOPs concepts
+Q: Basic relational database questions like indexing and many to many relations.
+What are your strengths and weaknesses?
+Count number of substring occurrences
+Introduce about yourself What is data encapsulation
 
 
 
