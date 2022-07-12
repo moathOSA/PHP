@@ -1500,6 +1500,19 @@ Lifecycle method, Pure Component, Hooks concepts, Es6 concepts
 One simple for example: difference between tuples and lists in python.
 They asked me to design database structure for Charity funding application ?
 How MVC arquitecture is organized?
+Write a Depth First Search Function
+Framework knowledge and Core PHP
+Is javascript synchronous or asynchronous?
+Q. How to build binary tree in sorted.
+Automate the login process using your local env.
+Oops concept, polymorphism, abstraction, join
+How to solve some SQL Problems
+How to reverse a binary tree.
+1. Java Design Pattern 2. Java Streams API
+Binary tree search modification question
+Lifecycle method, Pure Component, Hooks concepts, Es6 concepts
+Pattern star and number type
+
 
 
 
