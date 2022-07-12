@@ -962,4 +962,280 @@ All Things PHP
 970.     Codility, basic array manipulation questions. Technical interview. Doing replace templating on a string, which recieve a dictionary of keywords and values to replace. It was simple and something they might already did in one of their products.
 971.     what is string? what is polymorphism? coding question of maximum sum array?
 972.     Are you familiar with TypeScript
-973.     
+973.     Oops concept, database questions more related to joins
+974.  Explain oop concept, sql, er diagram
+Why you are using HTML5 in your projects.
+Your experience working with sql, excel?
+Write code for Reverse linked list.
+Fully on Java OOPs concepts only.
+Design the classes for an organism Prime numbers
+Explain the OOPs concept? Why multiple inheritance cant be achieved in java? Why overriding is not possible in constructor?
+Any trainings attended? What projects you have worked on?
+2.Improve given code time complexity 3.SQL query
+eventloop, trigger, singleton pattern, memoization, authorization, authentication,lazy loading, Streams, Buffers, SPA, overloading vs overriding, generics, http methods, interceptor, middleware
+What is the MVC model
+what is java and why java is oop ?
+Write a code for a Given Roman numeral to convert it into an integer. Eg. Convert XXI or IX to it's equivalent integer number.
+- Why Cambridge Intelligence? - Favourite programming languages? Why? - Design decisions related to your programming task - Lots of talk about past projects - what was it? what was learnt from it? what would you do differently? - Discussion around university courses - favourites? least favourites? tasks? teamwork?
+What's a binary search tree?
+Remove duplicate elements from array. Difference between overloading and overriding.
+What is the difference between Table and View in SQL?
+Build a react native registration screen with form validation
+Core Java spring boot hibernate
+SQL joins & logical scenario based questions, PBI detailed interview
+MANUAL AND AUTOMATION Regression and retesting Bug life cycle
+1. Find the Longest palindromic subsequence.
+Basic Data structures Basic algorithms and puzzles
+Reverse a string according to size of words
+string manipulation and dictionary.
+In my case I had to build a CRUD API. Not difficult but it takes time as you have to imagine a PRD setting (so having tests, proper abstraction, proper documentation on how to build etc...).
+Different types of data structures
+What prompted you to apply to Core specifically?
+Spring boot annotations and corejava
+30 mins of behavioral questions using STAR method. Questions on Java, OOPs concept, design concepts (very theoritical), SQL questions,questions on previous experience. No coding questions.
+SQL questions -Joins,sub queries, etl and business.
+- Describe your experience. - Describe a person/product that inspires you. - What is your expected salary?
+Basic DSA, SQL and OOP questions.
+Print a matrix in spiral order?
+simple question on db design some short questions on Python leetcode-style questions on whatever language live-coding with React and Nodejs
+Codility, basic array manipulation questions. 
+Doing replace templating on a string, 
+recieve a dictionary of keywords and values to replace. 
+call by reference struct polymorphism
+About AEM, questions about HTL, clientlibs project structure and authoring
+DSA OOP DBMS All standard easy level questions. Two coding questions to be solved in 10 minutes each.
+what is string? what is polymorphism? coding question of maximum sum array?
+Are you familiar with TypeScript
+Java, Scala, Modern Databases, Elastic Search, System Design
+Given a string of parentheses tell if each one of them is properly closed, you have 3 types of parentheses '(, [, {'
+Given two string tell if they contain the same characters and are of equal length (there was a word for this)
+All question about SQL and kettle(job, transformation)
+OOPS and basics and easy level coding questions
+Star Pattern program , Armstrong number, palindrome program
+write a program, given a range, x - y, and find the number of integers that is evenly divisible by 7 but not divisible by 3.
+Write a polyfill for promise
+Technical (domain based), questions from DS/DSA, programming languages, OOPS
+write a program to find zeros between Binary number
+All questions from profile and sharing rules, roles
+Lightning bundles Lightning aura events and difference between events. Lightning data services, what parameters to set controller Difference between controller and helper Soql and fields to display according to user permission
+Simple python programs on inheritance concepts and basic SQL queries
+searching, design stack,linked list,heaps,proj discussion
+Explain one of your past roles or project
+what are the technologies used in angular? OOPS concepts Describe your projects html elements how to implement the code in browser
+Test duration 90 mins No. of questions 4 questions "Questions Feel free to choose your preferred programming language from the list of languages supported for each question. There are 4 questions that are part of this test: Question Indexes Question Types Q1 - Q4 Coding Questions 21 languages allowed: c, clojure, cpp, cpp14, csharp, erlang, go, haskell, java, java8, javascript, julia, kotlin, lua, objectivec, perl, php, r, ruby, scala, swift" 1. Circular Printer 2. Balanced Array 3. Whole Minute Dilemma 4. Astronomy Board Game
+They asked me to stand in front of all developers and talk about myself
+What culture add can I bring?
+What is your professional experience?
+First, he asked me to brief about yourself and there was a long discussion about my projects and their applications. As I mentioned the github link for all the projects, he visited my profile and checked my repositories and asked about github and the tools I have used. Detect the loop in the linked list and then find the point from where the loop started.
+1 string q, 1 dp, 1 array
+Many questions about my current position, mindset and culture
+- In depth python knowledge; mutability, immutability, syntax, lists/set/tuple difference, etc. - Flatten nested nested list.
+more about oops and .net
+What is difference between Interface and Abstract class
+Languages, programming languages, or programming tools learnt and using
+Data structures and System design interview.
+Java, react, development, API , and about yourself
+How will you handle the real time issues faced
+Something related to Binary Seach or Two Pointer
+Laravel basic question php basic question
+They asked questions based on resume.
+General hiring manager questions. System design question commonly asked. Non lc coding questions testing real coding experience, need to keep answering out loud and come up with test cases. One more on the caching side similar to redis and other question more api invocation/real time implementation.
+On List<Car> cars : Use LINQ, Find cheapest car, most expensive car, average price, group by brand name and return a dictionary.
+Reverse Linked list, binary tree traversal
+Just read basics on interview preparation kit
+Deep dive onto rails and databases
+How would you design a system that had lot's of transactions which needed to be reflected on many clients as realtime as possible?
+Hacker Rank,
+Provide how you relate and can obtain the Amazon Leadership Principles to your life and role here. Customer Obsession. Ownership. Invent and Simplify. Are Right, A Lot. Learn and Be Curious. Hire and Develop the Best. Insist on the Highest Standards. Think Big.
+Intuit Values (Typical Behavioral Questions) Graph traversing problem
+Shortest path from leaf node to another leaf node in a binary tree.
+-SQL query, join, grouping, aggragetion 2 algorithm questions
+Q: Sort a linked list Q: Return ranges between an input list of ranges
+How did you solve a hard problem in team collaboration? Give an example. What do you know about Service Oriented Architecture vs Microservices? What do you know about relational database? And NoSQL?
+1. Design Interview: Design a game leaderboard with top K results. Assume there is an online game that's taking place, and you need to only build the dashboard that everyone is viewing. 2. Behavioral: They try to gauge your level here - so try to aim for an L5 - or explicitly state so. 3. Merge k sorted lists 4. Schedule matches between two sets of players where no two players have a re-match (play only once against each other)
+Develop a full stack app in node, react, cypress and ts, docker, ci/cd and database
+Tell me how you would design a food delivery app from start to finish.
+Write an app to produce a report
+Different question regarding job position
+What are Keys and types of Keys in SQL?
+Mostly based on what you had mentioned in your resume Question on REST operations PUT Vs POST How to pass params in path variable & also about query param How did you handle conflict of interest with your colleague Why REST?
+Typical leetcode medium/hard, ie. bfs/dfs graph searching to find maximums/minimums, and object oriented stuff. Doing blind top 75 questions prepared me for the difficulty of this interviewing process.
+Can you explain to me how to do matrix multiplication? Can you explain how you would implement matrix multiplication in a language of your choice? What's a volatile variable? What's a const? What's a const volatile?
+Given a number, find the number of set bits
+They asked me to code a card game.
+A reverse engineered Caesar Cipher with twists on hacker rank.
+they asked about alog, DS and industry best practices
+Tell me about a time when you took a big risk that did not work out
+Eg 1: Input: a1b10 Output: abbbbbbbbbb Eg: 2: Input: b3c6d15 Output: bbbccccccddddddddddddddd The number varies from 1 to 99.
+different between HTTP and HTTPS
+Java oops questions, polymorphism, different types of polymorphism
+OOPS concepts, SQL, One programming language, Projects you did (prepare your resume)
+2nd round Full Profile based analysis and few technical questions
+she asked about program languages that i have experience with them.
+remove duplicates from am array and sort it.
+Importance of testing in the development cycle compared to analysis.
+OOP related questions, the general stuff that you would expect from a junior/medior position interview.
+Set up a linked list class and find if there are any duplicates
+Linux, SQL, OOP, Primary key.
+remove duplicates from array write a query joining two tables probability question bases on bayes therom traverse the array and list the duplicates OOPS concepts describe your project
+Linked-list question (aced it) Find all 2x2 sub-arrays inside a larger array (didn't get to that, but I'm sure it's on Leetcode somewhere). Post-word: I got approached by Amazon twice since then. No thanks!
+How could you help Lisk achieve its mission? What are custodians? What are market makers?
+HTML, CSS, Js regarding styling and js built in functions
+About project they asked me what was my contribution
+Build a ledger from an predefined interface. Design a web crawler.
+A single computer programming question based on denomination of currency
+General behavioural question you are better off rehearsing off after research from google. Simple technical part except for the description above.
+Write a program an array Sorting elements in array Query on DBMS
+How do you communicate to the client if he doesn't understand a problem that you are raising?
+Take-home assignment : display restaurants, delete and add one using Algolia search API.
+What is OPP's concept? What is Object?
+How you can handle broken links?
+What is the order of constructing and deconstructing objects in cpp?
+Hooks, closures
+Are you a hardworking person ?
+Algorithms and Software Architecture in some cases of e-commerce problems
+Coding Question,Basics of Python and Django,MySQL Question
+Coding, OOPS Concept, Basics of Python
+Difference between List & Tuple
+Start with core java like , oop concepts, Collection framework, Java8 features SpringBoot annotation like @RestController, @Autowired @Bean @Qualifier and more.
+Basic OOPS concepts
+1st round - OOPS, pointers, OS, DBMS, Logical Reasoning, output-based. 2nd Round - Linked List detect delete and reverse a string- both iterative and recursive—deep dive into Cpp concepts like friends function, typecasting, reference vs value, smart pointer, etc.
+The interviewer asked me to introduce myself. Asked me what language do i know. Asked me about java and type code for matrices program. Then moved onto data structures asked about heapsort
+What do you know about Apache Cassandra and NoSQL?
+basic react interview questions and javascript basics
+What are you previous projects? What data structure is used in API?
+Write a Trigger on roll-up summary write a Trigger to restrict entering the date in the contact which is having lessthan the minimum_date and greater than maximum_date in related account record
+Two DSA questions 1. for loop question 2. Flattening array without using inbuilt function.
+Q: Mysql index. the difference of Innodb and MyISAM Q: data structure of redis and their implement
+Describe the basic high-level architecture of a messaging application like WhatsApp & how will I implement it.
+How to select elements from tree?.
+Q.1) Give scenario where we can use abstract class and interface
+Q. Creating polyfills for some methods, JavaScript variables, and their inner workings, sorting algorithm, and Advanced JavaScript concepts.
+Build a factory floor diagram to move cars through an assembly line
+Which technologies I’ve worked with and my education background
+1. Design a DB API 2. Tic tac toe game on react 3. Query DB make joins and group data and count unique values in columns 4. Basic DS/Algo questions
+Some graph questions, leetcode hard
+questions were practical and and to the point. you have to find out an appropriate solution to them in an hour
+First assessment: 1 sql, 2 algorithm, 1 javascript with html
+What are the three ways to reduce page load time?
+Related to database schemas and data analysis.
+What is object oriented programming
+What is hooks in react?
+python oops concept. Django ORM, all model and structure of django
+About Classes,Static,some Asynchronous Apex questions and Triggers
+The Geofencing app that you have worked on - Unit Test - SOLID - Implement a new architecture that they want on the spot
+Why apply with Setel? (They ask tricky questions here, please avoid answering anything related to better package, benefits, or salary, or else they will hunt you down.)
+1. Tell me about yourself 2. Show me your project and explain 3. What is Semantic UI? 4. What is blockchain. NFT?
+How do you keep up with technologies.
+1. Tell me about yourself 2. Show some of your projects and explain different parts of it 3. What is semantic UI 4. What is blockchain, nft
+Multi threading. Why are Locks used? Async and Await?
+Started from oops and the difficulty level increases as the interview progress
+Singleton pattern with example.
+What is CTE?
+what are SQL views? How is a view different from stored procedure and tables? Can views update data? Can views have indexes? What kind of data view reads?
+How to increase WordPress website speed and optimize website performance? WordPress basic post types and Database related questions. Have you ever contributed to WordPress.org? How to protect WordPress websites from Hackers?
+What is polymorphism in java?
+Generic soft-skill/teamworking questions, "What is the difference between a linked list and an array", and the technical interview consisted of dissecting a specific project of mine that was listed on my resume.
+2 String questions in the OA. 1 was easy. Other one was related to KMP algorithm. 1 heap question in interview
+Atlassian wants to build a simple scheduling system that can execute one-off HTTP requests at a specified time. Consumers are internal Atlassian services only, and they may use this system to schedule requests to be executed in the future. For example: A consumer can schedule a request to https://testservice.com/api/items/_create to be executed on upcoming Sunday at 1am. So on upcoming Sunday at 1am the scheduling system must execute the HTTP request. Requirements: - Provide an interface for scheduling HTTP requests at a specified time. - Execute an HTTP request at specified time. - Initial release expects 10 scheduling requests per minute.
+how to write trigger with map example
+show me how to write a trigger on any object
+show me how to see field history on object
+show me how to create class, write soql query
+show me how to add fields on page layout
+Share your screen and show me how to add roll up summary field
+Show me how to create visual force page
+Show me how to assign case assignment rule, lead assignment rule
+Apex Trigger involving parent - child relationship - Update a field on parent object which will contain average of all numeric values contained in some field of child object records.
+Salesforce CPQ Product Rules and Price Rules along with multiple scenerios.
+1. Past Experience 2. Leetcode Medium and Hard (LinkedList)
+write PHP API call client with page token similar to google, also asked me to Write and API server and generate paging for the data set similar to google.
+Hash table, aggregate a list of bank transactions so that each bank at most has 1 transaction with every other bank
+What is singleton design pattern
+Design a pizza shop using oops concept and code according to their requirements.
+There were 2 coding questions. We spent 30 minutes on the first question, and the rest of the time on another question which I didn't finish.
+Leetcode 
+1. What is real life example of binary search ? 2. What is real life example of lambda functions in python ? 3. Why you choose python over java ?
+They also asked about my knowledge of polymorphism
+1.tell me about yourself 2.oops concept 3.method overloading & Method overriding 4.singleton pattern in java 5.difference between list and map 6.exception handling in java 7.table creation in mysql 8.how will manage multiple registration in mysql 9.explain about your projects
+Appels REST difference http et https requete SQL sur un exercice (Left join) dis moi un peu sur selenium (comment instancier le driver , scroll, ...) les statuts de réponses Rest (404,400,...) Postman et variables Test design
+Technical: Custom binding Extension functions String manipulation How to run 5 API calls and once all api calls are completes then proceed Questions around suspend functions and coroutine cancel. Data classes
+What are Promises? what are callbacks? Tell me about binary Search?
+Implement a linked list in which you can add, delete and view middle element in O(1) time
+How did you fare in high school mathematics, physical sciences and computing? Which were strengths and which were most enjoyable? How did you rank, competitively, in them?
+Software design Pattern . what is Singleton and observer design pattern
+Ds algo: create a stack with o(1) min value
+Lld: Design a photo download system in ios and swift
+Create an Item listing application on xcoxd
+Ds algo: find if paranthesis are balanced
+How is Python language different from c++.
+Directive, dependency injection ,Data binding,Observable, Angular features,explain the directives
+Couple questions about computer science and general theory, and other questions about more concrete topics like advantages and disadvantages of different programming languages and their uses.
+When do you use the `mutable' keyword?
+What is hoisting in JS?
+What is the difference between a stack and a heap?
+Technical question pertaining to project.
+Acid Property and how does it differ for NoSQL
+Difference between TCP & IP
+Explain OSI Layer
+Questions on Sorting techniques
+What happens in background during a http request
+Advantage of tail over non tail recursion
+What is tail recursion?
+Q: WAP to print star pattern Q: WAP to sort list of integers without using inbuilt functions i.e. any sorting technique Q: Other spring boot & java generic questions
+Questions about Data Architecture and Engineering. Concepts of handling data, Data Modeling and ETL Questions. 3 Hands on coding question. Did them in SQL.
+Given a list of file paths, output a formatted directory structure
+1. Difference between function expressions and function declaration. 2. What is hoisting? 3. How would you update a database with immutable records?
+About core Java, Microservices, SQL, Collections
+What is most difficult enhancement that you have done in the previous project
+What's your favourite stack (frontend/backend) and why
+MC round- design a music management system(Very simple) HLD-LLD- A notification management system DSA-Array of songs, play all songs in a random fashion infinite(or M ) number of times. Condition all songs in the current array to be played before starting the next cycle. Multithreading- Producer consumer problem, the interviewer will ask a lot of follow up questions, wants the most optimised way(CPU should be blocked only for producer or consumer thread at a particular time) Design pattern- You will be given a problem where you need to solve the situation via the correct design pattern(Very important) Database- Sharding, Indexing etc
+Q: Write a program to find factorial of a number using recursion. Q: Wap to reverse a string using recursion. Q : Write a SQL query to find 3rd highest salary .
+Q: Install docker, pull an image, run that image and hit a given URL using email, and API-key in headers to get next step question.
+1. SQL 2. Abstraction 3. Multiple Choice 4. Problem to Solve
+Longest Substring Without Repeating Characters
+1. Difference between function expressions and function declaration. 2. What is hoisting? 3. How would you update a database with immutable records?
+Practical exam was given - It was a PHP test.
+Currency rate exchange system where actual rates are provided by a third party.
+About core Java, Microservices, SQL, Collections
+Q: Write a program to find factorial of a number using recursion. Q: Wap to reverse a string using recursion. Q : Write a SQL query to find 3rd highest salary .
+automation and Functional Testing
+API testing and Database testing
+Difference between WCF and API
+What are some Higher Order Array Methods and what they do ?
+What's a class in Javascript ?
+They asked me about callback, promisses, hooks , usestate
+1.How to use generic? 2.Explain the process of creating a register page 3.Exceptation handling and current project discussion
+Questions for the interview was : 1) Oops concepts in python 2) Django Framework workflow 3) Write a program of fibonacci series 4) Sql queries 1) Oops concepts in python 2) Django Framework workflow 3) Write a program of fibonnice series 4) Sql queries
+1. Write a code to reverse a string 2. Opened Amazon.in and asked me to write XPath for elements on that page. 3.Difference between Abstract and Interface
+The technical interview consisted of several themes - CPU bound vs I/O bound - async/multithreading in Python and effects of GIL - system design - slow HTTP attack on a reverse proxy
+1. Bubble sort coding question using functions 2. Write programming logic to store your name using character pointer 3. Basic questions on data structures
+Virtual DOM, Component Life Cycle, some JS questions, HackerRank calculator with testing
+I have to do a python program for print a prime number
+small project to develop api in go with mongodb.
+Architecture, Database, CS fundamentals, Working experiences, and other...
+do you work on integration?
+oops concept SQL queries CRUD operations set method why $ used
+Explain the types of joins in SQL
+joints
+Two cooks have a kitchen and require 30 minutes to bake a food what is the result?
+Q: Are you interested in NFTs? Q: What experience do you have with .Net? Q: Experience with Go or C++?
+What is inheritance? What is the way of inheriting variable of one class to any other class? What is Polymorphism?
+Given 2 sorted arrays, merge them together, eliminate duplicates, and sort the result.
+Find K Pairs with Smallest Sums, Intersection of Two Arrays, Longest Increasing Subsequence, Longest Substring Without Repeating Characters, etc.
+Solid principals ? Design patterns? DDD concepts? Message brokers ?
+Used a third party coding test site, two questions and 1 hour to solve them.
+Closures, Scope, Box Model, REST
+What is the Observer Pattern
+Q1. What technologies you have worked on?
+Code for frequency of elements in the list min and max value from the list basic data types,oops concept question MySQL based questions
+Did u have any experience developing Micro Services app?
+Explain spring MVC flow and architecture
+Whats was your biggest achievement ?
+What are SOLID principles, and design patterns? Define and give an example of the Singelton pattern. Abstract classes and interfaces.
+LLD for a learning platform.
+covered some SQL concepts, Designs Patterns, Talked about your current role - are you familiar with Kanban - are you up-to-date with recent technologies? some behavioral questions based on scenarios.
+What is the role play for seek() and Tell()
+Red black tree map implementation.
+
+
